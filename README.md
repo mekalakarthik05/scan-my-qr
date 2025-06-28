@@ -17,8 +17,7 @@ A simple web-based QR Code scanner using the [`html5-qrcode`](https://github.com
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the app](https://your-username.github.io/scan-my-qr/)  
-*(Replace with your actual GitHub Pages link)*
+👉 (https://mekalakarthik05.github.io/scan-my-qr/)
 
 ## 📁 Project Structure
 
