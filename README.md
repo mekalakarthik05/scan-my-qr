@@ -1,25 +1,24 @@
-# QR Code Scanner - Beginner Project
+# 📷 QR Code Scanner
 
-This is a simple QR Code scanner web app using `html5-qrcode` JavaScript library.
+A simple web-based QR Code scanner using the [`html5-qrcode`](https://github.com/mebjas/html5-qrcode) JavaScript library.
 
-## 🔍 Features
+## 🚀 Features
 
-- Scans QR codes using device camera
-- Displays scanned content
+- 🔍 Scans QR codes using your device camera
+- ✅ Displays decoded QR content instantly
+- 💻 Works on most modern browsers
 
-## 🚀 Demo
+## 🛠️ How to Use
 
-Live demo: [Add your deployment link here]
+1. Clone this repository or [download the ZIP](https://github.com/your-username/scan-my-qr).
+2. Open `index.html` in a web browser.
+3. Allow camera permissions.
+4. Point your camera at a QR code and see the result.
 
-## 🛠 How to Run
+## 🌐 Live Demo
 
-1. Clone the repo
-2. Open `index.html` in your browser
+👉 [Click here to try the app](https://your-username.github.io/scan-my-qr/)  
+*(Replace with your actual GitHub Pages link)*
 
-## 📦 Dependencies
+## 📁 Project Structure
 
-- [html5-qrcode](https://github.com/mebjas/html5-qrcode)
-
-## 📸 Screenshot
-
-Add a screenshot here or use the app with your webcam!
